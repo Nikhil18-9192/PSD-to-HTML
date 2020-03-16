@@ -1,0 +1,187 @@
+@media only screen and (min-width: 416px) and (max-width: 768px){
+
+     
+    .social_area{
+        width: 220px;
+    }
+    #banner_area .col-md-8 {
+        
+         margin-top: 60px;
+        padding-left: 162px;
+    }
+    
+     
+    #banner_area .col-md-8 p{
+        font-size: 14px;
+         
+    }
+    #banner_area .col-md-8 h3{
+        font-size: 28px;
+    }
+    #banner_area .col-md-4{
+        width: 100%;
+        margin-top: 40px;
+       
+    }
+    #third_section .col-md-4 img {
+        vertical-align: middle;
+        border-style: none;
+        width: 205px;
+    }
+    #third_section .col-md-4 p {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 12px;
+        color: #999999;
+        width: 215px;
+    }
+    .services h2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 22px;
+        color: #8a8a8a;
+        width: 714px;
+        margin-left: 0;
+    }
+    .services .col-md-4 .col-md-8 p {
+        color: #8a8a8a;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 11px;
+        width: 133px;
+         
+    }
+    .services .col-md-4 .col-md-8{
+        padding-left: 26px;
+    }
+    .copyrighte .col-md-6{
+        font-size: 10px;
+    }
+    .navbar-toggler{
+        background: #3bafbe;
+    }
+   
+}
+
+@media only screen and (min-width: 200px) and (max-width: 415px){
+     
+    .search_area{
+        display: none;
+    }
+    .row {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    #navbar .mr-auto, .mx-auto {
+        margin-left: 168px;
+    }
+    #banner_area .col-md-4{
+         margin: 0;
+        
+    }
+    #banner_area .col-md-4 img {
+        vertical-align: middle;
+        border-style: none;
+        width: 250px;
+    }
+    #banner_area .col-md-8{
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    .banner_text{
+       
+        margin: 0;
+        text-align: center;
+    
+    }
+    
+    #third_section .col-md-4{
+        margin-bottom: 20px;
+    }
+    #third_section .col-md-4 img {
+        vertical-align: middle;
+        border-style: none;
+        width:  266px;
+    }
+    .banner_text h3 {
+        font-size: 26px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+    }
+    .banner_text p {
+        font-size: 14px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        color: #999999;
+    }
+
+    .services h2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 22px;
+        color: #8a8a8a;
+        width: 307px;
+        margin-left: 0;
+    }
+    .services .col-md-4 .col-md-8 p {
+        color: #8a8a8a;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 17px;
+        width: 257px;
+    }
+    .services .col-md-4 .col-md-8 h4 {
+        color: #3bafbe;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 18px;
+    }
+    #third_section .col-md-4 p {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 15px;
+        color: #999999;
+        width: 271px;
+    }
+    .copyrighte{
+        display: none;
+    }
+    .navbar-toggler{
+        background: #3bafbe;
+    }
+}
+
+@media only screen and (width: 1024px){
+
+    .social_area{
+        width: 220px;
+    }
+    #banner_area .col-md-6{
+      
+        margin-left: 150px;
+          
+    }
+    #banner_area .col-md-6 {
+        margin-left: 120px;
+         
+        padding-left: 50px;
+    }
+    #navbar .mr-auto, .mx-auto {
+        margin-left: 63px;
+    }
+    .banner_text {
+        text-decoration: none;
+        margin-left: 124px;
+    }
+    .banner_text p {
+        font-size: 16px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        color: #999999;
+    }
+}
